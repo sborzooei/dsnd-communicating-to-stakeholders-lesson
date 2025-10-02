@@ -40,5 +40,5 @@ Must give credit to Stack Overflow for the data.  You can find the Licensing for
 
 ### here is my changes
 I would like to learn Pole dancing
-LEt consider a time slot in your life to do what you love!
 So now is the time to do the project
+
