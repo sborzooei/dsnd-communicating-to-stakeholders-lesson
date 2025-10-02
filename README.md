@@ -38,12 +38,6 @@ The main findings of the code can be found at the post available [here](https://
 
 Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
 
-### here is my changes
-I would like to learn Pole dancing
-So now is the time to do the project
-## New changes:SB
-I want to learn githib easier
-Do you think it is possible?
-Of course! I am sure it is :)
+
 
 
